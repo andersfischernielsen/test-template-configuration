@@ -4,4 +4,4 @@ files:
   - test.yaml
 
 values: 
-  testValue: hello
+  testValue: 10
