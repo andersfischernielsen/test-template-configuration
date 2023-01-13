@@ -4,6 +4,7 @@ automerge: true
 
 files: 
   - test.yaml
+  - idontexist.yaml
 
 values: 
   testValue: 42
