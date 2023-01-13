@@ -1,6 +1,6 @@
 version: v0.0.1
 
-automerge: false
+automerge: true
 
 files: 
   - test.yaml
