@@ -6,5 +6,5 @@ files:
   - test.yaml
 
 values: 
-  someValue: 2
+  testValue: 42
 
