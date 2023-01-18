@@ -5,3 +5,6 @@ files:
 
 values: 
   testValue: 2
+
+invalidValue: 
+  hello: 2
