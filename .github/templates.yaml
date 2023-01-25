@@ -4,4 +4,4 @@ automerge: true
 
 
 files:
-  - test2.yaml
+  - doesnotexist.yaml
