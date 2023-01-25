@@ -5,4 +5,3 @@ automerge: true
 files: 
   - nonexistent.yaml
   - test.yaml 
-
