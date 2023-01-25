@@ -6,4 +6,3 @@ automerge: true
 files: 
   - doesnotexist.yaml
   - test.yaml 
-
