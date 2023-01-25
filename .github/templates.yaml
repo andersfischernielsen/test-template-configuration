@@ -3,6 +3,6 @@ version: v0.0.2
 automerge: true
 
 files: 
-  - nonexistent.yaml
+  - 23
   - test.yaml 
 
