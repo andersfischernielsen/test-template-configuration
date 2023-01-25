@@ -4,7 +4,7 @@ automerge: true
 
 
 files: 
-  - 23
+  - doesnotexist.yaml
   - test.yaml 
 
 
